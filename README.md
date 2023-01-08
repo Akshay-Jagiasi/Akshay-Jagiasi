@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=your-github-Akshay-Jagiasi&style=flat-square)
 
 <!--
 **Akshay-Jagiasi/Akshay-Jagiasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
