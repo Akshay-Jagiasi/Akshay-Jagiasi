@@ -15,5 +15,5 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshay-jagiasi&show_icons=true&locale=en" alt="akshay-jagiasi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshay-jagiasi&show_icons=true&locale=en" alt="Akshay-Jagiasi" /></p>
 
