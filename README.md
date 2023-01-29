@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akshay Jagiasi</h1>
-<h3 align="center">Self Learner</h3>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=30&size=35&pause=1000&color=F70000&background=A2FFD600&width=435&lines=Hi%2C+I'm+Akshay+Jagiasi)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay-jagiasi&label=Profile%20views&color=0e75b6&style=flat" alt="akshay-jagiasi" /> </p>
 
 
