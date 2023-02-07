@@ -1,5 +1,4 @@
-
-<p><img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="adam-pw" height="288" width="384" /></p>
+<p><img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="adam-pw" height="259.2" width="345.6" /></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=25&size=30&pause=1000&color=F70000&background=A2FFD600&width=435&lines=Hi%2C+I'm+Akshay+Jagiasi)](https://git.io/typing-svg)
 
