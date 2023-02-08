@@ -1,9 +1,10 @@
-<p style="padding-bottom: 20px;">
+<p>
   <img align="right" 
        src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  
-       height="287.35" 
-       width="379.07" />
+       height="271.68" 
+       width="361.07" />
 </p>
+
 
 <p>.</p>
 
