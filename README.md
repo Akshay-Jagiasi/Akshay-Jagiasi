@@ -1,5 +1,7 @@
 <p><img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  height="259.2" width="345.6" /></p>
 
+<p><br></p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=25&size=30&pause=1000&color=F70000&background=A2FFD600&width=435&lines=Hi%2C+I'm+Akshay+Jagiasi)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay-jagiasi&label=Profile%20views&color=0e75b6&style=flat" alt="akshay-jagiasi" /> </p>
