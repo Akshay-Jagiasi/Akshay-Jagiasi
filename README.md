@@ -21,9 +21,7 @@
   <a href="https://linkedin.com/in/akshay-jagiasi-1bb909262" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay-jagiasi-1bb909262" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/akshayjagiasi_" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshayjagiasi_" height="30" width="40" />
-  </a>
+  
 </p>
 
 
